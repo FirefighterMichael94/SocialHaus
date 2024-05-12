@@ -1,0 +1,17 @@
+{
+  "name": "develop",
+  "version": "0.0.1",
+  "description": "development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Michael G",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "4.19.2",
+    "mongodb": "5.1.0",
+    "mongoose": "^6.12.8"
+  }
+}
